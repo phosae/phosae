@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I currently make ☁ Cloud Native for a live. 
+I currently write code for a live, and I also enjoy running (marathon PB 2:58:47).
 
 - ✍🏻 write tech blog at [zeng.dev](https://zeng.dev)
 - 🐬 build more understandable Kubernetes extensions guide at [x-kubernetes](https://github.com/phosae/x-kubernetes)
